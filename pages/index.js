@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Head from "next/head";
 
 import Post from "../components/post/post";
@@ -10,8 +11,9 @@ export default function Home({ posts }) {
         <title>NextJS Startup</title>
       </Head>
       <div className="mb-5">
-        <img
-          src="https://placehold.jp/1280x500.png"
+        <Image
+          className="object-cover"
+          src="/top.png"
           alt="top"
           width={1280}
           height={500}
