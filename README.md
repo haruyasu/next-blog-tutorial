@@ -13,5 +13,3 @@ npx tailwindcss init -p
 https://nerdcave.com/tailwind-cheat-sheet
 
 componentsフォルダ作成
-
-# next-blog-tutorial
