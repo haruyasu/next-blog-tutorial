@@ -1,15 +1,7 @@
-# NextJS Blog
+# ブログサイト構築(Next.js+Django)
 
-npx create-next-app . --use-npm
+フロントエンド
 
-npm run dev
+[YouTube](https://youtu.be/4ZVmEFcOt0Y)
 
-https://tailwindcss.com/docs/guides/nextjs
-
-npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
-
-npx tailwindcss init -p
-
-https://nerdcave.com/tailwind-cheat-sheet
-
-componentsフォルダ作成
+[![](https://res.cloudinary.com/dhaciqd0v/image/upload/v1659354210/LINE/Frame_153_rtkk4x.png)](https://youtu.be/4ZVmEFcOt0Y)
